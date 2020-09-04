@@ -1,0 +1,7 @@
+setup.py
+jauth/__init__.py
+jauth/jauth.py
+jauth.egg-info/PKG-INFO
+jauth.egg-info/SOURCES.txt
+jauth.egg-info/dependency_links.txt
+jauth.egg-info/top_level.txt
