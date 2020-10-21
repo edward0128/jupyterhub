@@ -11,8 +11,10 @@ LDAP_BASE_DN  |ou=users,dc=ai,dc=nchc,dc=org,dc=tw    |
 
 
 
-
-
+ldapsearch 設定
+```
+ldapsearch -xD cn=admin,dc=ai,dc=nchc,dc=org,dc=tw -wpassword -b ou=users,dc=ai,dc=nchc,dc=org,dc=tw -H ldap://10.113.99.1:30389
+```
 
 
 
